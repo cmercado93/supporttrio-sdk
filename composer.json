@@ -1,0 +1,21 @@
+{
+    "name": "cmercado93/supporttrio-sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cmercado93\\SupporttrioSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Mercado",
+            "email": "cmercado93@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7",
+        "php-curl-class/php-curl-class": "dev-master"
+    }
+}
